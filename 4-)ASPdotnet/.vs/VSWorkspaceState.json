@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ContosoPizza",
+    "\\ContosoPizza\\Controllers",
+    "\\ContosoPizza\\Models",
+    "\\ContosoPizza\\Services"
+  ],
+  "SelectedNode": "\\ContosoPizza\\Controllers\\PizzaController.cs",
+  "PreviewInSolutionExplorer": false
+}

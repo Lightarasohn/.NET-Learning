@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net8.0",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net8.0",
+    "\\obj\\Release",
+    "\\stores",
+    "\\stores\\202",
+    "\\stores\\203",
+    "\\stores\\salesTotalDir"
+  ],
+  "SelectedNode": "\\stores\\salesTotalDir\\allTotals.txt",
+  "PreviewInSolutionExplorer": false
+}
