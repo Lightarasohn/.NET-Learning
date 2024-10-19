@@ -1,0 +1,46 @@
+:root {
+    --green: #00FF00;
+    --black: #000000;
+    --white: #FFFFFF;
+}
+body {
+    font-family:'Times New Roman', Times, serif;
+    background: var(--bg);
+    color: var(--fontColor);
+
+}
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
+li {
+    list-style: circle;
+}
+.list {
+    list-style:square;
+}
+#msg {
+    font-family: monospace;
+}
+.light-theme {
+    --bg: var(--white);
+    --fontColor: var(--black);
+    --btnBgColor: var(--black);
+    --btnColor: var(--green);
+}
+.dark-theme {
+    --bg: var(--black);
+    --fontColor: var(--green);
+    --btnBgColor: var(--white);
+    --btnColor: var(--black);
+}
+.btn {
+  position: absolute;
+  top: 20px;
+  left: 250px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: none;
+  background-color: var(--btnBgColor);
+  color: var(--btnColor);
+}
