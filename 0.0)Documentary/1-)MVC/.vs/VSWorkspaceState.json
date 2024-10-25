@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVCMovie",
+    "\\MVCMovie\\MVCMovie",
+    "\\MVCMovie\\MVCMovie\\Controllers",
+    "\\MVCMovie\\MVCMovie\\Migrations",
+    "\\MVCMovie\\MVCMovie\\Views",
+    "\\MVCMovie\\MVCMovie\\Views\\Movies"
+  ],
+  "SelectedNode": "\\MVCMovie\\MVCMovie\\Models",
+  "PreviewInSolutionExplorer": false
+}
