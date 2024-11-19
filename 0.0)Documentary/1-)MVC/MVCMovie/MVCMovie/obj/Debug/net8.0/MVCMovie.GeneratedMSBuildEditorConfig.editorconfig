@@ -58,10 +58,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/onur/Desktop/DOTNET/.NET-Learning/0.0)Documentary/1-)MVC/MVCMovie/MVCMovie/Views/Movies/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/onur/Desktop/DOTNET/.NET-Learning/0.0)Documentary/1-)MVC/MVCMovie/MVCMovie/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -77,6 +73,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/onur/Desktop/DOTNET/.NET-Learning/0.0)Documentary/1-)MVC/MVCMovie/MVCMovie/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/onur/Desktop/DOTNET/.NET-Learning/0.0)Documentary/1-)MVC/MVCMovie/MVCMovie/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-q6ht1el9tg
 
 [C:/Users/onur/Desktop/DOTNET/.NET-Learning/0.0)Documentary/1-)MVC/MVCMovie/MVCMovie/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

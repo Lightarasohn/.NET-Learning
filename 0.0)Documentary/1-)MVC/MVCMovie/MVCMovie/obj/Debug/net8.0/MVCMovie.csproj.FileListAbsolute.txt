@@ -257,3 +257,4 @@ C:\Users\onur\Desktop\DOTNET\.NET-Learning\0.0)Documentary\1-)MVC\MVCMovie\MVCMo
 C:\Users\onur\Desktop\DOTNET\.NET-Learning\0.0)Documentary\1-)MVC\MVCMovie\MVCMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\onur\Desktop\DOTNET\.NET-Learning\0.0)Documentary\1-)MVC\MVCMovie\MVCMovie\obj\Debug\net8.0\MVCMovie.csproj.AssemblyReference.cache
 C:\Users\onur\Desktop\DOTNET\.NET-Learning\0.0)Documentary\1-)MVC\MVCMovie\MVCMovie\obj\Debug\net8.0\MVCMovie.csproj.Up2Date
+C:\Users\onur\Desktop\DOTNET\.NET-Learning\0.0)Documentary\1-)MVC\MVCMovie\MVCMovie\obj\Debug\net8.0\scopedcss\Views\Movies\Index.cshtml.rz.scp.css
