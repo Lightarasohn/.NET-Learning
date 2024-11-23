@@ -2,5 +2,10 @@
 
 GET {{Server_HostAddress}}
 Accept: application/json
-
+###
+GET {{Server_HostAddress}}/Projects
+Accept: application/json
+###
+GET {{Server_HostAddress}}/Projects/1
+Accept: application/json
 ###

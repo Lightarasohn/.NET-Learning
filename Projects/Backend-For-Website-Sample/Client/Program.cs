@@ -25,3 +25,5 @@ app.MapControllerRoute(
     pattern: "{controller=Client}/{action=Index}/{id?}");
 
 app.Run();
+
+//Server Address: http://localhost:5201
