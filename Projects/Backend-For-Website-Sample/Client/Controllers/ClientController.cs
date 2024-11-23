@@ -9,6 +9,12 @@ namespace Client.Controllers;
 
 public class ClientController : Controller
 {
+    private JsonSerializerOptions _options = new JsonSerializerOptions
+    {
+        PropertyNameCaseInsensitive = true, // Ignore case-insensitive property name mismatches
+        AllowTrailingCommas = true, // Allow trailing commas in JSON arrays
+    };
+
     public IActionResult Index()
     {
         return View();
@@ -25,20 +31,14 @@ public class ClientController : Controller
     }
     
     public async Task<IActionResult> Projects()
-    {
+    { 
         var client = new HttpClient();
+        
         var response = await client.GetAsync("http://localhost:5201/Projects");
         response.EnsureSuccessStatusCode();
-        
         var responseString = await response.Content.ReadAsStringAsync();
-        Console.WriteLine(responseString);
-        var projectList = JsonSerializer.Deserialize<List<ProjectModel>>(responseString);
-        Console.WriteLine(projectList.Count);
-        Console.WriteLine(projectList[0]);
-        Console.WriteLine(projectList[0].ToString);
-        Console.WriteLine(projectList[0].Id);
-        Console.WriteLine(projectList[0].ProjectName);
-        Console.WriteLine(projectList[0].ProjectInfo);
+        
+        var projectList = JsonSerializer.Deserialize<List<ProjectModel>>(responseString, _options);
         return View(projectList);
     }
 }
