@@ -13,6 +13,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ProjectContext>(options => 
     options.UseSqlServer(builder.Configuration.GetConnectionString("ProjectDataBase") 
     ?? throw new InvalidOperationException("Connection string not found")));
+builder.Services.AddDbContext<CustomerContext>(options => 
+    options.UseSqlServer(builder.Configuration.GetConnectionString("CustomerDatabase") 
+    ?? throw new InvalidOperationException("Connection string not found")));
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

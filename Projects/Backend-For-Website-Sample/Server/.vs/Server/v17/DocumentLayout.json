@@ -3,27 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\migrations\\customer\\customercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:migrations\\customer\\customercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\migrations\\customer\\20241128161757_customerdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:migrations\\customer\\20241128161757_customerdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\dtos\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:dtos\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\data\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:data\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjectContext_38360397_3ab8_4387_894c_a5ac9bea7db3/True/SqlTable/dbo.Projects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\dtos\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:dtos\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\dtos\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:dtos\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjectContext_38360397_3ab8_4387_894c_a5ac9bea7db3/True/SqlTable/dbo.Projects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Models\\SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -41,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{17952473-BD9C-417D-8E24-E7A6A4FA3114}|Server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Client\\Controllers\\ClientController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -67,7 +83,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -77,7 +93,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T19:39:03.747Z",
               "IsPinned": true,
@@ -85,17 +101,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.Projects [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjectContext_38360397_3ab8_4387_894c_a5ac9bea7db3/True/SqlTable/dbo.Projects.sql",
-              "ToolTip": "dbo.Projects [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-23T22:59:05.796Z",
+              "DocumentIndex": 0,
+              "Title": "CustomerContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Migrations\\Customer\\CustomerContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\Customer\\CustomerContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Migrations\\Customer\\CustomerContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\Customer\\CustomerContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:18:16.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241128161757_CustomerDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Migrations\\Customer\\20241128161757_CustomerDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\Customer\\20241128161757_CustomerDatabase.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Migrations\\Customer\\20241128161757_CustomerDatabase.cs",
+              "RelativeToolTip": "Migrations\\Customer\\20241128161757_CustomerDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:18:14.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Data\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "Data\\CustomerContext.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Data\\CustomerContext.cs",
+              "RelativeToolTip": "Data\\CustomerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:54:08.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\DTOs\\Customer.cs",
+              "RelativeDocumentMoniker": "DTOs\\Customer.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\DTOs\\Customer.cs",
+              "RelativeToolTip": "DTOs\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:50:50.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "dbo.Projects.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjectContext_38360397_3ab8_4387_894c_a5ac9bea7db3/True/SqlTable/dbo.Projects.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjectContext_38360397_3ab8_4387_894c_a5ac9bea7db3/True/SqlTable/dbo.Projects.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-23T22:59:05.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -103,25 +174,24 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-23T22:09:29.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T22:09:29.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-23T22:09:17.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ClientController.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Client\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "..\\Client\\Controllers\\ClientController.cs",
@@ -129,12 +199,11 @@
               "RelativeToolTip": "..\\Client\\Controllers\\ClientController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T22:08:12.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T22:08:12.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\DTOs\\Project.cs",
               "RelativeDocumentMoniker": "DTOs\\Project.cs",
@@ -147,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "20241123204554_ProjectDatabase.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Migrations\\20241123204554_ProjectDatabase.cs",
               "RelativeDocumentMoniker": "Migrations\\20241123204554_ProjectDatabase.cs",
@@ -155,29 +224,24 @@
               "RelativeToolTip": "Migrations\\20241123204554_ProjectDatabase.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA2wBcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T22:04:57.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T22:04:57.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "ProjectContext.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Data\\ProjectContext.cs",
               "RelativeDocumentMoniker": "Data\\ProjectContext.cs",
               "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Data\\ProjectContext.cs",
               "RelativeToolTip": "Data\\ProjectContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T21:50:37.608Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs",
@@ -185,12 +249,11 @@
               "RelativeToolTip": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T21:27:16.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T21:27:16.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Responses\\Response.cs",
               "RelativeDocumentMoniker": "Responses\\Response.cs",
@@ -203,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Program.cs",
@@ -211,12 +274,11 @@
               "RelativeToolTip": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T21:09:20.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T21:09:20.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Models\\SeedData.cs",
@@ -224,25 +286,24 @@
               "RelativeToolTip": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Models\\SeedData.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAAADgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T21:08:35.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T21:08:35.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "Data\\SeedData.cs",
               "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Data\\SeedData.cs",
               "RelativeToolTip": "Data\\SeedData.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAADwvycAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvycAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T21:02:11.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\appsettings.json",
@@ -250,12 +311,11 @@
               "RelativeToolTip": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-23T20:37:54.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T20:37:54.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Server.csproj",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Server.csproj",
               "RelativeDocumentMoniker": "Server.csproj",
@@ -263,12 +323,11 @@
               "RelativeToolTip": "Server.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T20:29:11.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T20:29:11.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "MVCMovieContext.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Data\\MVCMovieContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Data\\MVCMovieContext.cs",
@@ -276,8 +335,7 @@
               "RelativeToolTip": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Data\\MVCMovieContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:41:52.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T19:41:52.025Z"
             },
             {
               "$type": "Bookmark",
