@@ -24,15 +24,18 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-ProjectContext context;
-Task<ProjectContext> taskContext;
+ProjectContext projectContext;
+CustomerContext customerContext;
+Task<ProjectContext> taskProjectContext;
+Task<CustomerContext> taskCustomerContext;
 var scope = app.Services.CreateScope();
 
     var services = scope.ServiceProvider;
 
-    taskContext = SeedData.Initialize(services);
-    context = taskContext.Result;
-
+    taskProjectContext = SeedData.InitializeProjectDatabase(services);
+    taskCustomerContext = SeedData.InitializeCustomerDatabase(services);
+    projectContext = taskProjectContext.Result;
+    customerContext = taskCustomerContext.Result;
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -43,12 +46,12 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-var response = new Response(context);
+var response = new Response(projectContext, customerContext);
 
 app.MapGet("/", () => response.APIIndexRequestError());
 //#################################################################
 app.MapGet("/Projects", () => response.GetAllProjects());
 app.MapGet("/Projects/{index}", (int index) => response.GetProject(index));
 //#################################################################
-
+app.MapPost("/Customer", (Customer customerInfo) => response.PostCustomerAsync(customerInfo));
 app.Run();

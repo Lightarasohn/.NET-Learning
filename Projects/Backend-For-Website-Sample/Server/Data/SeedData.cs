@@ -6,7 +6,25 @@ namespace Server.Data;
 
 public class SeedData
 {
-    private static readonly List<Project> _SeedList =
+    private static readonly List<Customer> _SeedListCustomer =
+    [
+        new Customer
+        {
+            Email = "onurdemir1771@gmail.com",
+            FullName = "Onur Demir",
+            PhoneNumber = "05465588563",
+            Message = "Merhabalar, Ben onur demir.",
+        },
+        new Customer
+        {
+            Email = "onurcelik@gmail.com",
+            FullName = "Onur Celik",
+            PhoneNumber = "123456789",
+            Message = "Merhabalar, Ben onur celik. Bu yan hesabim",
+        },
+    ];
+
+    private static readonly List<Project> _SeedListProject =
     [
         new Project
     {
@@ -35,19 +53,31 @@ public class SeedData
     }
     ];
 
-    public static async Task<ProjectContext> Initialize(IServiceProvider serviceProvider)
+    public static async Task<ProjectContext> InitializeProjectDatabase(IServiceProvider serviceProvider)
     {
         var context = new ProjectContext(
             serviceProvider.GetRequiredService<DbContextOptions<ProjectContext>>());
         
             if (context.Projects.Any())
                 return context;
-            foreach(var project in _SeedList)
+            foreach(var project in _SeedListProject)
             {
-                context.Projects.Add(project);
+                await context.Projects.AddAsync(project);
             }
             await context.SaveChangesAsync();
             return context;
         
+    }
+
+    public static async Task<CustomerContext> InitializeCustomerDatabase(IServiceProvider serviceProvider)
+    {
+        var context = new CustomerContext(serviceProvider.GetRequiredService<DbContextOptions<CustomerContext>>());
+
+        if (context.Customers.Any())
+            return context;
+        foreach(var customer in _SeedListCustomer)
+            await context.Customers.AddAsync(customer);
+        await context.SaveChangesAsync();
+        return context;
     }
 }

@@ -10,10 +10,12 @@ namespace Server.Responses;
 public class Response
 {
     private readonly ProjectContext _ProjectContext;
+    private readonly CustomerContext _CustomerContext;
     
-    public Response(ProjectContext context)
+    public Response(ProjectContext context, CustomerContext customer)
     {
         _ProjectContext = context;
+        _CustomerContext = customer;
     }
     public string APIIndexRequestError()
     {
@@ -37,5 +39,15 @@ public class Response
         if (project == null)
             return "";
         return JsonSerializer.Serialize<Project>(project);
+    }
+
+    public async void PostCustomerAsync(Customer customerInfo)
+    {
+        try
+        {
+            await _CustomerContext.Customers.AddAsync(customerInfo);
+            await _CustomerContext.SaveChangesAsync();
+        }
+        catch { throw new Exception(); }
     }
 }
