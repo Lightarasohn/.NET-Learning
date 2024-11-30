@@ -53,5 +53,5 @@ app.MapGet("/", () => response.APIIndexRequestError());
 app.MapGet("/Projects", () => response.GetAllProjects());
 app.MapGet("/Projects/{index}", (int index) => response.GetProject(index));
 //#################################################################
-app.MapPost("/Customer", (Customer customerInfo) => response.PostCustomerAsync(customerInfo));
+app.MapPost("/Customer", (Customer customer) => response.PostCustomerAsync(customer));
 app.Run();

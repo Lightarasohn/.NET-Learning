@@ -1,4 +1,4 @@
-﻿@model Client.Models.Customer
+﻿@model Client.Models.CustomerModel
 <head>
     <link href="~/css/styles.css" rel="stylesheet" />
 </head>
@@ -48,6 +48,14 @@
                                 </div>
                                 <div class="d-grid"><button class="btn btn-primary btn-lg disabled" id="submitButton" value="Contact" type="submit">Submit</button></div>
                             </form>
+                            @{if(ViewData["Form"] != null){
+                            <div>
+                                <p>
+                                    @ViewData["Form"]
+                                </p>
+                            </div>
+                            }
+                            }
                         </div>
                     </div>
                 </div>

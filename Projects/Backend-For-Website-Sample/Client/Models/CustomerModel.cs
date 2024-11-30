@@ -1,6 +1,6 @@
 ﻿namespace Client.Models;
 
-public class Customer
+public class CustomerModel
 {
     public int Id { get; set; }
     public string Email { get; set; }

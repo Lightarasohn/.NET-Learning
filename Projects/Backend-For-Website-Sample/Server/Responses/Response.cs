@@ -41,12 +41,14 @@ public class Response
         return JsonSerializer.Serialize<Project>(project);
     }
 
-    public async void PostCustomerAsync(Customer customerInfo)
+    public async void PostCustomerAsync(Customer customer)
     {
         try
         {
-            await _CustomerContext.Customers.AddAsync(customerInfo);
-            await _CustomerContext.SaveChangesAsync();
+                await _CustomerContext.Customers.AddAsync(customer);
+                await _CustomerContext.SaveChangesAsync();
+            
+           
         }
         catch { throw new Exception(); }
     }

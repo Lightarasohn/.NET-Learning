@@ -3,15 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AD293E8-5DC3-4BAA-9C59-62A848E996FE}|Client.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\client\\views\\client\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AD293E8-5DC3-4BAA-9C59-62A848E996FE}|Client.csproj|solutionrelative:views\\client\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Responses\\Response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AD293E8-5DC3-4BAA-9C59-62A848E996FE}|Client.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\client\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AD293E8-5DC3-4BAA-9C59-62A848E996FE}|Client.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD293E8-5DC3-4BAA-9C59-62A848E996FE}|Client.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\client\\views\\client\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AD293E8-5DC3-4BAA-9C59-62A848E996FE}|Client.csproj|solutionrelative:views\\client\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjectContext_38360397_3ab8_4387_894c_a5ac9bea7db3/True/SqlTable/dbo.Projects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CustomerContext_38360397_3ab8_4387_894c_a5ac9bea7db3/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD293E8-5DC3-4BAA-9C59-62A848E996FE}|Client.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AD293E8-5DC3-4BAA-9C59-62A848E996FE}|Client.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -21,11 +40,8 @@
       "RelativeMoniker": "D:0:0:{9AD293E8-5DC3-4BAA-9C59-62A848E996FE}|Client.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AD293E8-5DC3-4BAA-9C59-62A848E996FE}|Client.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\projects\\backend-for-website-sample\\client\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AD293E8-5DC3-4BAA-9C59-62A848E996FE}|Client.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\DTOs\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Client\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,7 +51,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,7 +59,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Program.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Program.cs",
+              "RelativeToolTip": "..\\Server\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:11:31.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Projects [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjectContext_38360397_3ab8_4387_894c_a5ac9bea7db3/True/SqlTable/dbo.Projects.sql",
+              "ToolTip": "dbo.Projects [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-30T23:08:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Customers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CustomerContext_38360397_3ab8_4387_894c_a5ac9bea7db3/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "dbo.Customers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-30T22:52:50.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\appsettings.json",
+              "RelativeToolTip": "..\\Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T22:28:14.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Responses\\Response.cs",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\Responses\\Response.cs",
+              "RelativeToolTip": "..\\Server\\Responses\\Response.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:27:54.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Client\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Client\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T22:26:47.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs",
@@ -51,12 +137,11 @@
               "RelativeToolTip": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:53:34.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:53:34.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Client\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -64,8 +149,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:53:13.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:53:13.764Z"
             },
             {
               "$type": "Document",
@@ -75,14 +159,14 @@
               "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
               "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Client\\Controllers\\ClientController.cs",
               "RelativeToolTip": "Controllers\\ClientController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAA2wCoAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T20:51:14.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Client\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -90,25 +174,11 @@
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:48:44.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:48:44.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\DTOs\\Customer.cs",
-              "RelativeDocumentMoniker": "..\\Server\\DTOs\\Customer.cs",
-              "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Server\\DTOs\\Customer.cs",
-              "RelativeToolTip": "..\\Server\\DTOs\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:48:26.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Create.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Create.cshtml",
@@ -116,18 +186,17 @@
               "RelativeToolTip": "..\\..\\..\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Create.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T20:43:46.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:43:46.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Client\\Views\\Client\\Contact.cshtml",
               "RelativeDocumentMoniker": "Views\\Client\\Contact.cshtml",
               "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\Projects\\Backend-For-Website-Sample\\Client\\Views\\Client\\Contact.cshtml",
               "RelativeToolTip": "Views\\Client\\Contact.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-30T20:40:53.718Z",
               "EditorCaption": ""

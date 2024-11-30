@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Net;
+using System.Net.Http.Headers;
+using System.Net.Http;
 using Client.Models;
 using System.Text.Json;
 using System.Text.Json.Nodes;
@@ -10,6 +12,7 @@ namespace Client.Controllers;
 
 public class ClientController : Controller
 {
+
     private JsonSerializerOptions _options = new JsonSerializerOptions
     {
         PropertyNameCaseInsensitive = true, // Ignore case-insensitive property name mismatches
@@ -23,21 +26,28 @@ public class ClientController : Controller
     
     public IActionResult Contact()
     {
+        ViewData["Form"] = "";
         return View();
     }
 
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Contact([Bind("FullName,Email,PhoneNumber,Message")] Customer customer)
+    public async Task<IActionResult> Contact([Bind("FullName,Email,PhoneNumber,Message")] CustomerModel customer)
     {
         if (ModelState.IsValid)
         {
             var client = new HttpClient();
             var customerJson = JsonSerializer.Serialize(customer);
             var customerContent = new StringContent(customerJson);
+            customerContent.Headers.ContentType = new MediaTypeHeaderValue("application/json");
             var responseOfPostRequest = await client.PostAsync("http://localhost:5201/Customer", customerContent);
+            if(responseOfPostRequest.IsSuccessStatusCode)
+                ViewData["Form"] = "Thank you, we will inform you in 3 days!";
+            return View();
         }
-        return new CreatedResult();
+        ViewData["Form"] = "Something went wrong :(";
+        return View();
+        
     }
 
     public IActionResult Resume()
