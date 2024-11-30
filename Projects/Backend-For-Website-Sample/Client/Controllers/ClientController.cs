@@ -4,6 +4,7 @@ using System.Net;
 using Client.Models;
 using System.Text.Json;
 using System.Text.Json.Nodes;
+using Microsoft.AspNetCore.Http.HttpResults;
 
 namespace Client.Controllers;
 
@@ -23,6 +24,20 @@ public class ClientController : Controller
     public IActionResult Contact()
     {
         return View();
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public async Task<IActionResult> Contact([Bind("FullName,Email,PhoneNumber,Message")] Customer customer)
+    {
+        if (ModelState.IsValid)
+        {
+            var client = new HttpClient();
+            var customerJson = JsonSerializer.Serialize(customer);
+            var customerContent = new StringContent(customerJson);
+            var responseOfPostRequest = await client.PostAsync("http://localhost:5201/Customer", customerContent);
+        }
+        return new CreatedResult();
     }
 
     public IActionResult Resume()
