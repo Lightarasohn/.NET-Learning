@@ -54,16 +54,23 @@ public class ClientController : Controller
     {
         return View();
     }
-    
+
     public async Task<IActionResult> Projects()
-    { 
-        var client = new HttpClient();
-        
-        var response = await client.GetAsync("http://localhost:5201/Projects");
-        response.EnsureSuccessStatusCode();
-        var responseString = await response.Content.ReadAsStringAsync();
-        
-        var projectList = JsonSerializer.Deserialize<List<ProjectModel>>(responseString, _options);
-        return View(projectList);
+    {
+        try
+        {
+            var client = new HttpClient();
+
+            var response = await client.GetAsync("http://localhost:5201/Projects");
+            response.EnsureSuccessStatusCode();
+            var responseString = await response.Content.ReadAsStringAsync();
+
+            var projectList = JsonSerializer.Deserialize<List<ProjectModel>>(responseString, _options);
+            return View(projectList);
+        }
+        catch (HttpRequestException)
+        {
+            return View();
+        }
     }
 }

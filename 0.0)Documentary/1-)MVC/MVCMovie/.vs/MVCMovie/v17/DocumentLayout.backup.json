@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +35,12 @@
       "RelativeMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\migrations\\20241023160539_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\migrations\\20241023160539_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65BD9707-22BC-41E0-B5DF-5C5656532527}|MVCMovie\\MVCMovie.csproj|c:\\users\\onur\\desktop\\dotnet\\.net-learning\\0.0)documentary\\1-)mvc\\mvcmovie\\mvcmovie\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -106,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 216,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,15 +126,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "MVCMovie\\Models\\SeedData.cs",
               "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Models\\SeedData.cs",
               "RelativeToolTip": "MVCMovie\\Models\\SeedData.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T18:02:16.363Z"
+              "WhenOpened": "2024-10-24T18:02:16.363Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -144,7 +145,7 @@
               "RelativeDocumentMoniker": "MVCMovie\\Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "MVCMovie\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIBBwGUAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T15:55:45.259Z",
               "EditorCaption": ""
@@ -163,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCMovie\\Views\\Movies\\Index.cshtml",
@@ -171,12 +172,11 @@
               "RelativeToolTip": "MVCMovie\\Views\\Movies\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T17:54:07.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T17:54:07.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Program.cs",
               "RelativeDocumentMoniker": "MVCMovie\\Program.cs",
@@ -184,12 +184,11 @@
               "RelativeToolTip": "MVCMovie\\Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T14:21:30.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T14:21:30.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCMovie\\Views\\Shared\\_Layout.cshtml",
@@ -202,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml.css",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Index.cshtml.css",
               "RelativeDocumentMoniker": "MVCMovie\\Views\\Movies\\Index.cshtml.css",
@@ -226,15 +225,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "MVCMovieContext.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Data\\MVCMovieContext.cs",
               "RelativeDocumentMoniker": "MVCMovie\\Data\\MVCMovieContext.cs",
               "ToolTip": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Data\\MVCMovieContext.cs",
               "RelativeToolTip": "MVCMovie\\Data\\MVCMovieContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T12:02:50.802Z"
+              "WhenOpened": "2024-10-25T12:02:50.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -262,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Create.cshtml",
               "RelativeDocumentMoniker": "MVCMovie\\Views\\Movies\\Create.cshtml",
@@ -286,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20241023160539_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Migrations\\20241023160539_InitialCreate.cs",
               "RelativeDocumentMoniker": "MVCMovie\\Migrations\\20241023160539_InitialCreate.cs",
@@ -310,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\onur\\Desktop\\DOTNET\\.NET-Learning\\0.0)Documentary\\1-)MVC\\MVCMovie\\MVCMovie\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "MVCMovie\\Models\\Movie.cs",
